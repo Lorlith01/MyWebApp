@@ -43,7 +43,7 @@ public class IO {
 		}
 	}
 	
-	public void testReader() {
+	public void testReader() {// 
 		File file = new File("F:\\output.txt");
 		try {
 			FileReader fileReader = new FileReader(file);
